@@ -1,5 +1,5 @@
 # Dot Net API CRUD
- This is a little CRUD made with .Net using C# and SQL, as the first challenge of the .Net learning path on plural sight. It also has unitary tests and json handling.
+ This is a little CRUD made with .Net using C# and SQL, as the challenge of the .Net learning path on plural sight. It also has unitary tests and json handling.
  
  The goal of this challenge were to made an API with .Net that were capable of Create, Read, Update and Delete an product on an existing database.
  
